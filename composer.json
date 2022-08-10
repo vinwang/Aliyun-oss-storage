@@ -1,17 +1,17 @@
 {
-    "name": "summergeorge/ali-oss-storage",
+    "name": "wanglu/ali-oss-storage",
     "description": "aliyun oss filesystem storage for laravel 5+",
     "keywords": ["aliyun", "oss", "laravel", "filesystems", "storage"],
-    "homepage": "https://github.com/summergeorge/Aliyun-oss-storage",
+    "homepage": "https://github.com/vinwang/Aliyun-oss-storage",
     "license": "MIT",
     "authors": [
         {
-            "name": "summergeorge",
-            "email": "qihao201net@126.com"
+            "name": "wanglu",
+            "email": "wlhome90@gmail.com"
         }
     ],
     "require": {
-        "aliyuncs/oss-sdk-php": "~2.0"
+        "aliyuncs/oss-sdk-php": "~2.5"
     },
     "autoload": {
         "psr-4": {
