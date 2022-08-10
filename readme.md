@@ -1,7 +1,7 @@
 > 如果本项目对您有帮助且愿意花时间一起维护，欢迎提交PR，我将每个月做一次PR合并。
 
 > 如果您想和我一起维护，欢迎发邮件给我，我将把您加为项目协作者。
-# Aliyun-oss-storage for Laravel 5+
+# Aliyun-oss-storage for Laravel 8+
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/summergeorge/Aliyun-oss-storage/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/summergeorge/Aliyun-oss-storage/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/summergeorge/Aliyun-oss-storage/badges/build.png?b=master)](https://scrutinizer-ci.com/g/summergeorge/Aliyun-oss-storage/build-status/master)
 [![Latest Stable Version](https://poser.pugx.org/summergeorge/ali-oss-storage/v/stable)](https://packagist.org/packages/summergeorge/ali-oss-storage)
@@ -29,12 +29,12 @@ Aliyun oss filesystem storage adapter for laravel 5. You can use Aliyun OSS just
 ## Installation 
 In order to install AliOSS-storage, just add
 
-    "summergeorge/ali-oss-storage": "^2.2"
+    "vinwang/ali-oss-storage": "^2.2"
 
 to your composer.json. Then run `composer install` or `composer update`.  
 Or you can simply run below command to install:
 
-    "composer require summergeorge/ali-oss-storage:^2.2"
+    "composer require vinwang/ali-oss-storage:^2.2"
     
 Then in your `config/app.php` add this line to providers array:
 ```php
